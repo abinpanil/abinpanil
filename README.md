@@ -75,7 +75,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abin-p-anil-45a67821b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/__rah.ul__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/abi_n__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
