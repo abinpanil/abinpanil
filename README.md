@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abin</h1>
-<img align="right" width="50%" height="40%" margin-top="1px" src="./job.gif">
+<img align="right" width="50%" height="40%" margin-top="1px" src="https://i.imgur.com/iXuL1HG.png">
 <h3 align="left">I'm a passionate Frontend Developer from India.</h3>
 
 
