@@ -9,7 +9,7 @@ I'm a passionate Full-Stack web developer.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://abinpanil.github.io/Abin/)
 * ✉️  You can contact me at [abinpanil9@gmail.com](mailto:abinpanil9@gmail.com)
-* 🧠  I'm learning nestjs
+* Passionate about exploring the endless possibilities of Web3 and blockchain technology, diving deep into decentralized ecosystems.
 
 <a href="https://www.github.com/abinpanil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abinpanil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
