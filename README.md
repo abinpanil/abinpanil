@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/abinpanil?logo=github&style=for-the
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,nestjs,react,mysql,postgres,mongodb,bootstrap,css,docker,figma,firebase,gcp,git,graphql,heroku,jenkins,linux,materialui,nginx,postman,rabbitmq,redis,sequelize,solidity,ubuntu,vscode," />
   </a>
 </p>
 
