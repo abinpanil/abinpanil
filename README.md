@@ -12,23 +12,23 @@ My focus is on clean architecture, reliability, and real-world systems — not j
 <a href="https://www.github.com/abinpanil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abinpanil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-**🧠 What I Specialize In**
+### 🧠 What I Specialize In
 
-### Backend Engineering
-*Node.js & TypeScript
-*RESTful APIs & microservice-ready architecture
-*Authentication & authorization (JWT, RBAC)
-*SQL & NoSQL databases (PostgreSQL, MySQL, MongoDB, Redis)
+**Backend Engineering**
+• Node.js & TypeScript
+• RESTful APIs & microservice-ready architecture
+• Authentication & authorization (JWT, RBAC)
+• SQL & NoSQL databases (PostgreSQL, MySQL, MongoDB, Redis)
 
-### Frontend
-*React.js (TypeScript)
-*API-driven dashboards & internal tools
+**Frontend**
+• React.js (TypeScript)
+• API-driven dashboards & internal tools
 
-### Cloud & DevOps
-*Docker & Docker Compose
-*CI/CD with GitHub Actions
-*AWS (EC2, ECS, RDS, S3)
-*Cloud-ready, production-focused deployments
+**Cloud & DevOps**
+• Docker & Docker Compose
+• CI/CD with GitHub Actions
+• AWS (EC2, ECS, RDS, S3)
+• Cloud-ready, production-focused deployments
 
 ### Skills
 
