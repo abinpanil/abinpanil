@@ -68,7 +68,7 @@ Open to:
 ## Contact
 
 GitHub: https://github.com/abinpanil  
-LinkedIn: <add-your-link-here>
+LinkedIn: https://www.linkedin.com/in/abin-p-anil
 
 ---
 
