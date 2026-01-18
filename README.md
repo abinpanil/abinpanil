@@ -1,18 +1,34 @@
-Hi 👋 My name is Abin P Anil
+👋 Hi, I’m Abin P Anil
 ============================
 
-MERN Stack Developer
+Senior Software Engineer | Backend & Full-Stack Specialist
+Node.js • TypeScript • React • AWS • Docker
 --------------------
 
-I'm a passionate Full-Stack web developer.
+I’m a senior software engineer with 4+ years of experience building scalable, production-ready web applications for startups and growing teams.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://abinpanil.github.io/Abin/)
-* ✉️  You can contact me at [abinpanil9@gmail.com](mailto:abinpanil9@gmail.com)
-* Passionate about exploring the endless possibilities of Web3 and blockchain technology, diving deep into decentralized ecosystems.
+My focus is on clean architecture, reliability, and real-world systems — not just code that works, but code that scales and lasts.
 
 <a href="https://www.github.com/abinpanil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abinpanil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+**🧠 What I Specialize In**
+
+### Backend Engineering
+*Node.js & TypeScript
+*RESTful APIs & microservice-ready architecture
+*Authentication & authorization (JWT, RBAC)
+*SQL & NoSQL databases (PostgreSQL, MySQL, MongoDB, Redis)
+
+### Frontend
+*React.js (TypeScript)
+*API-driven dashboards & internal tools
+
+### Cloud & DevOps
+*Docker & Docker Compose
+*CI/CD with GitHub Actions
+*AWS (EC2, ECS, RDS, S3)
+*Cloud-ready, production-focused deployments
 
 ### Skills
 
