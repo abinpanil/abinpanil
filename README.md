@@ -67,7 +67,7 @@ Open to:
 
 ## Contact
 
-Portfolio: https://abin-portfolio-zeta.vercel.app/
+Portfolio: https://abin-portfolio-zeta.vercel.app
 GitHub: https://github.com/abinpanil  
 LinkedIn: https://www.linkedin.com/in/abin-p-anil
 
