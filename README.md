@@ -1,13 +1,12 @@
-👋 Hi, I’m Abin P Anil
-============================
+Abin P Anil
+===========
 
-Senior Software Engineer | Backend & Full-Stack Specialist
+Senior Software Engineer | Backend & Full-Stack Specialist  
 Node.js • TypeScript • React • AWS • Docker
---------------------
 
-I’m a senior software engineer with 4+ years of experience building scalable, production-ready web applications for startups and growing teams.
+I’m a senior software engineer focused on building scalable, production-ready web applications for startups and growing teams.
 
-My focus is on clean architecture, reliability, and real-world systems — not just code that works, but code that scales and lasts.
+I focus on clean architecture, reliability, and real-world systems — not just code that works, but systems that scale, perform, and last.
 
 ---
 
